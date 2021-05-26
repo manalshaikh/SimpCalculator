@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\bin\Release\SimpCalculator.exe.config
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\bin\Release\SimpCalculator.exe.manifest
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\bin\Release\SimpCalculator.application
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\bin\Release\SimpCalculator.exe
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\bin\Release\SimpCalculator.pdb
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.credit.resources
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.simpcalc.resources
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.reportbug.resources
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.Properties.Resources.resources
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.exe.manifest
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.application
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.exe
+C:\Users\user\source\repos\SimpCalculator\SimpCalculator\obj\Release\SimpCalculator.pdb
